@@ -622,6 +622,10 @@
    "kotobagaki": "永禄五年八月廿一日新正梅"
   }
  ],
+ "translation": {
+  "count": 7,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-eiroku5-ichijodani-kyokusui",
   "work": "永禄五年一乗谷曲水宴詩歌",
@@ -634,7 +638,7 @@
   "blocks": 7,
   "chars": 2141,
   "poems": 34,
-  "yaku": 0,
+  "yaku": 7,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T03:00:16+09:00"
